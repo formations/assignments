@@ -1,0 +1,9 @@
+= Assignments
+Nicolas Frankel
+:doctype: article
+:encoding: utf-8
+:lang: fr
+
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+* <<library/work.adoc#,Rendu>>
