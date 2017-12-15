@@ -25,6 +25,8 @@ TIP: Afin de conserver une charge de travail adaptée, toutes les fonctionnalit�
 * Lorsque le lien Livres est cliqué, l’link:#_ecran_de_liste_des_livres[écran Liste des Livres] est affiché
 * Lorsque le bouton btn:[Connexion] est cliqué, l’link:#_ecran_de_connexion[écran Connexion] est affiché
 * Sur l’link:#_ecran_de_connexion[écran Connexion], le bouton btn:[Connexion] est masqué
+* Lorsqu'un l'utilisateur est connecté, le bouton btn:[Déconnexion] est affiché, le bouton btn:[Connexion] masqué
+* Lorsqu'un l'utilisateur n'est pas connecté, le bouton btn:[Connexion] est affiché, le bouton btn:[Déconnexion] masqué
 
 == Ecran d'accueil
 
