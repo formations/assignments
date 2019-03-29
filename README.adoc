@@ -1,4 +1,4 @@
-= Assignments
+= Rendus
 Nicolas Frankel
 :doctype: article
 :encoding: utf-8
@@ -6,4 +6,5 @@ Nicolas Frankel
 
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
-* <<library/work.adoc#,Rendu>>
+* <<library/work.adoc#,Bibliothèque>>
+* <<eshop/work.adoc#,Magasin en-ligne>>
