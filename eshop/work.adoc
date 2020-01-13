@@ -226,5 +226,5 @@ Une ligne de tableau comporte :
 * Lorsque le bouton Commander est cliqué :
 
 ** Le caddie est vidé
-** L'utilisateur est redirigé vers l'link:#_ecran_de_détail_du_produit[écran de liste des produits]
+** L'utilisateur est redirigé vers l'link:#_ecran_daccueil[écran d'acceuil]
 ** Le message "Merci pour votre commande" s'affiche
